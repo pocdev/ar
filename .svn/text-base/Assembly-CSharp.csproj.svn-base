@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{C5DC1369-7A0D-F373-8A7F-63B7EBEC27DD}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_IPHONE;UNITY_IPHONE_API;ENABLE_MICROPHONE;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;ENABLE_AUDIO_FMOD;ENABLE_NETWORK;ENABLE_MONO;ENABLE_PHYSICS;ENABLE_TERRAIN;ENABLE_CACHING;ENABLE_SUBSTANCE;ENABLE_GENERICS;ENABLE_CLOTH;ENABLE_GAMECENTER;UNITY_IOS;ENABLE_AUDIO;ENABLE_WWW;ENABLE_SHADOWS;UNITY_4_1_2;UNITY_4_1;ENABLE_PROFILER;UNITY_EDITOR</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="UnityEngine">
+	  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\GUITouchScroll\GUITouchScroll.cs" />
+     <Compile Include="Assets\Mega-Fiers\MegaFier Test Scene\Scripts\BallBounce.cs" />
+     <Compile Include="Assets\Mega-Fiers\MegaFier Test Scene\Scripts\Bouyancy.cs" />
+     <Compile Include="Assets\Mega-Fiers\MegaFier Test Scene\Scripts\BouyancyNew.cs" />
+     <Compile Include="Assets\Mega-Fiers\MegaFier Test Scene\Scripts\KDTree.cs" />
+     <Compile Include="Assets\Mega-Fiers\MegaFier Test Scene\Scripts\MOrbit.cs" />
+     <Compile Include="Assets\Mega-Fiers\MegaFier Test Scene\Scripts\MatchShape.cs" />
+     <Compile Include="Assets\Mega-Fiers\MegaFier Test Scene\Scripts\MegaGUI.cs" />
+     <Compile Include="Assets\Mega-Fiers\MegaFier Test Scene\Scripts\MegaGlobeLink.cs" />
+     <Compile Include="Assets\Mega-Fiers\MegaFier Test Scene\Scripts\MegaIWave.cs" />
+     <Compile Include="Assets\Mega-Fiers\MegaFier Test Scene\Scripts\MegaTestAnimator.cs" />
+     <Compile Include="Assets\Mega-Fiers\MegaFier Test Scene\Scripts\MegaWireDeform.cs" />
+     <Compile Include="Assets\Mega-Fiers\MegaFier Test Scene\Scripts\PathFollow.cs" />
+     <Compile Include="Assets\Mega-Fiers\MegaFier Test Scene\Scripts\PyramidMesh.cs" />
+     <Compile Include="Assets\Mega-Fiers\MegaFier Test Scene\Scripts\Scroll.cs" />
+     <Compile Include="Assets\Mega-Fiers\MegaFier Test Scene\Scripts\SoftBody.cs" />
+     <Compile Include="Assets\Mega-Fiers\MegaFier Test Scene\Scripts\ToggleMultiCore.cs" />
+     <Compile Include="Assets\Mega-Fiers\MegaFier Test Scene\Scripts\WalkBridge.cs" />
+     <Compile Include="Assets\Mega-Fiers\MegaFier Test Scene\Scripts\WalkRope.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaBook.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaBookNew.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaBox3.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaControllers\MegaBezFloatKeyControl.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaControllers\MegaBezVector3KeyControl.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaControllers\MegaControl.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaMatrix.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaPerlin.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaHose.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaHoseAttach.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaMeshPage.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShape.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShapeArc.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShapeCircle.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShapeEllipse.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShapeHelix.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShapeLine.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShapeNGon.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShapeRectangle.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShapeSVG.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShapeSXL.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShapeStar.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaTankWheels.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaTracks.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaUtils.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaWaveMesh.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaXMLReader.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaBend.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaBubble.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaBulge.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaCollisionDeform.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaCrumple.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaCurveDeform.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaCurveSculpt.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaCurveSculptLayered.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaCylindrify.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaDisplace.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaDisplaceLimits.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaDisplaceWebCam.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaDynamicRipple.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaFFD.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaFFD2x2x2.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaFFD3x3x3.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaFFD4x4x4.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaFFDAnimate.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaGlobe.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaHump.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaMelt.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaModifier.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaModifiers.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaModifyGroup.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaModifyObject.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaMorph\MegaMorphOMatic.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaNoise.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaPageFlip.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaPaint.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaPathDeform.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaPivotAdjust.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaPointCache.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaPointCacheAnimator.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaPointCacheInstance.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaPush.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaRadialSkew.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaRipple.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaRopeDeform.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaRubber.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaSimpleMod.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaSinusCurve.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaSkew.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaSpherify.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaSqueeze.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaStretch.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaTaper.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaTreeBend.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaTwist.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaVertNoise.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaVertexAnim.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaWave.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaWaving.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\MegaWorldPathDeform.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\Morph\MegaMorph.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\Morph\MegaMorphAnim.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\Morph\MegaMorphAnimator.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\Morph\MegaMorphChan.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\Morph\MegaMorphLink.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\Morph\MegaMorphTarget.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\Selection\MegaMatSelect.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\Selection\MegaMultiVolSelect.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\Selection\MegaSelection.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\Selection\MegaVertColSelect.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\Selection\MegaVolSelect.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\UVMods\MegaUVAdjust.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\UVMods\MegaUVTiles.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\Warps\MegaBendWarp.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\Warps\MegaNoiseWarp.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\Warps\MegaRippleWarp.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\Warps\MegaSkewWarp.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\Warps\MegaStretchWarp.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\Warps\MegaTaperWarp.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\Warps\MegaTwistWarp.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\Warps\MegaWarp.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\Warps\MegaWarpBind.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Modifiers\Warps\MegaWaveWarp.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Utils\MegaAttach.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Utils\MegaBallBounce.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Utils\MegaCopyObject.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Utils\MegaNearestPoint.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Utils\MegaScroll.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Utils\MegaSoft2D.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Utils\MegaToggleMultiCore.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Utils\MegaWalkBridge.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Utils\MegaWalkRope.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\Utils\MegaWrap.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaGrab\DOFCamera.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaGrab\JPGEncoder.cs" />
+     <Compile Include="Assets\Mega-Fiers\Scripts\MegaGrab\MegaGrab.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\CameraDevice.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\CloudRecoBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\DataSet.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\DataSetLoadBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\DataSetTrackableBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\DefaultInitializationErrorHandler.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\DefaultTrackableEventHandler.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\GLErrorHandler.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\GeometryStructs.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\ICloudRecoEventHandler.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\ITextRecoEventHandler.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\ITrackableEventHandler.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\ITrackerEventHandler.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\IUserDefinedTargetEventHandler.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\IVideoBackgroundEventHandler.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\IVirtualButtonEventHandler.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Image.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\ImageTarget.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\ImageTargetBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\ImageTargetBuilder.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\ImageTracker.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\BGRenderingBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\CameraDeviceImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\CloudRecoImageTargetImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\DataSetImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\IEditorDataSetTrackableBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\IEditorImageTargetBehaviours.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\IEditorMarkerBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\IEditorMultiTargetBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\IEditorTextRecoBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\IEditorTrackableBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\IEditorVirtualButtonBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\IEditorWordBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\ImageImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\ImageTargetBuilderImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\ImageTargetImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\ImageTrackerImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\MarkerImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\MarkerTrackerImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\MultiTargetImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\NullWebCamTexAdaptor.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\QCARMacros.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\QCARManagerImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\QCARRendererImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\QCARUnityImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\StateManagerImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\TargetFinderImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\TextTrackerImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\TextureRenderer.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\TrackableImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\TrackableSourceImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\TrackerManagerImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\VirtualButtonImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\WebCamImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\WebCamProfile.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\WebCamTexAdaptor.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\WebCamTexAdaptorImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\WordImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\WordListImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\WordManagerImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\WordResultImpl.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\Wrapper\IQCARWrapper.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\Wrapper\QCARNativeWrapper.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\Wrapper\QCARNullWrapper.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Internal\Wrapper\QCARWrapper.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Marker.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\MarkerBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\MarkerTracker.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\MaskOutBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\MultiTarget.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\MultiTargetBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\QCARBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\QCARManager.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\QCARRenderer.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\QCARRuntimeUtilities.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\QCARUnity.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\SetBGCameraLayerBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\StateManager.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\TargetFinder.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\TextRecoBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\TextTracker.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Trackable.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\TrackableBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\TrackableSource.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Tracker.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\TrackerManager.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\TurnOffBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\TurnOffWordBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\UserDefinedTargetBuildingBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\VirtualButton.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\VirtualButtonBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\WebCamBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\Word.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\WordBehaviour.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\WordList.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\WordManager.cs" />
+     <Compile Include="Assets\Qualcomm Augmented Reality\Scripts\WordResult.cs" />
+     <Compile Include="Assets\Scripts\Albums\IconController.cs" />
+     <Compile Include="Assets\Scripts\Albums\LightPulse.cs" />
+     <Compile Include="Assets\Scripts\AnimClock.cs" />
+     <Compile Include="Assets\Scripts\AnimToggleButton.cs" />
+     <Compile Include="Assets\Scripts\AnimationController.cs" />
+     <Compile Include="Assets\Scripts\AnimationInitializer.cs" />
+     <Compile Include="Assets\Scripts\AnimationLooper.cs" />
+     <Compile Include="Assets\Scripts\AnimationTrackableEventHandler.cs" />
+     <Compile Include="Assets\Scripts\AudioTrackableEventHandler.cs" />
+     <Compile Include="Assets\Scripts\CachedVideoTrackableEventHandler.cs" />
+     <Compile Include="Assets\Scripts\CameraAngleSync.cs" />
+     <Compile Include="Assets\Scripts\CameraDeviceMenu.cs" />
+     <Compile Include="Assets\Scripts\CameraUploadTest\PhotoManager.cs" />
+     <Compile Include="Assets\Scripts\CameraUploadTest\SignatureBuilder.cs" />
+     <Compile Include="Assets\Scripts\CloudRecoEventHandler.cs" />
+     <Compile Include="Assets\Scripts\DonkeyKong\BarrelHit.cs" />
+     <Compile Include="Assets\Scripts\DonkeyKong\DKAnimationEvents.cs" />
+     <Compile Include="Assets\Scripts\DownloadAssetBundle.cs" />
+     <Compile Include="Assets\Scripts\DuckHunt\Crosshairs.cs" />
+     <Compile Include="Assets\Scripts\DuckHunt\DHTrackableEventHandler.cs" />
+     <Compile Include="Assets\Scripts\DuckHunt\Duck.cs" />
+     <Compile Include="Assets\Scripts\DuckHunt\GameController.cs" />
+     <Compile Include="Assets\Scripts\DuckHunt\GroundCollision.cs" />
+     <Compile Include="Assets\Scripts\DuckHunt\Huntable.cs" />
+     <Compile Include="Assets\Scripts\DuckHunt\HuntableController.cs" />
+     <Compile Include="Assets\Scripts\FBLikeGUI.cs" />
+     <Compile Include="Assets\Scripts\FPSCounter.cs" />
+     <Compile Include="Assets\Scripts\ForwardiOSMessages.cs" />
+     <Compile Include="Assets\Scripts\GameCenter.cs" />
+     <Compile Include="Assets\Scripts\Gestures.cs" />
+     <Compile Include="Assets\Scripts\GoToWebsite.cs" />
+     <Compile Include="Assets\Scripts\GumbyAnimController.cs" />
+     <Compile Include="Assets\Scripts\Home.cs" />
+     <Compile Include="Assets\Scripts\Howling\HowlingTrackableEventHandler.cs" />
+     <Compile Include="Assets\Scripts\Keds\AddToCartController.cs" />
+     <Compile Include="Assets\Scripts\Keds\ChangeColor.cs" />
+     <Compile Include="Assets\Scripts\Keds\KedsCustomizer.cs" />
+     <Compile Include="Assets\Scripts\Keds\KedsTrackableEventHandler.cs" />
+     <Compile Include="Assets\Scripts\Keds\Pick.cs" />
+     <Compile Include="Assets\Scripts\LaunchHandler.cs" />
+     <Compile Include="Assets\Scripts\LaunchViaURL.cs" />
+     <Compile Include="Assets\Scripts\Mario\MarioAnimationController.cs" />
+     <Compile Include="Assets\Scripts\MarioLevel\MarioLevelAnimController.cs" />
+     <Compile Include="Assets\Scripts\Menu\AdditiveLoader.cs" />
+     <Compile Include="Assets\Scripts\Menu\AttachUIManager.cs" />
+     <Compile Include="Assets\Scripts\Menu\ImagePreview.cs" />
+     <Compile Include="Assets\Scripts\Menu\LaunchButtonController.cs" />
+     <Compile Include="Assets\Scripts\Menu\MenuLoader.cs" />
+     <Compile Include="Assets\Scripts\Menu\ScrollListController.cs" />
+     <Compile Include="Assets\Scripts\Menu\SwipeDetection.cs" />
+     <Compile Include="Assets\Scripts\Menu\ToggleButtonController.cs" />
+     <Compile Include="Assets\Scripts\Minions\MinionAnimationController.cs" />
+     <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
+     <Compile Include="Assets\Scripts\ParticleSystemTrackableEventHandler.cs" />
+     <Compile Include="Assets\Scripts\PlayButton.cs" />
+     <Compile Include="Assets\Scripts\PlayCachedStreamingMovie.cs" />
+     <Compile Include="Assets\Scripts\PlayHardwareMovieClassPro.cs" />
+     <Compile Include="Assets\Scripts\PlayStreamingMovie.cs" />
+     <Compile Include="Assets\Scripts\Republic\CDVideo.cs" />
+     <Compile Include="Assets\Scripts\Republic\RepublicTrackableEventHandler.cs" />
+     <Compile Include="Assets\Scripts\SJScrubListener.cs" />
+     <Compile Include="Assets\Scripts\SJTrackableEventHandler.cs" />
+     <Compile Include="Assets\Scripts\SceneController.cs" />
+     <Compile Include="Assets\Scripts\Scrubber.cs" />
+     <Compile Include="Assets\Scripts\SetRenderQueue.cs" />
+     <Compile Include="Assets\Scripts\SimpleRotate.cs" />
+     <Compile Include="Assets\Scripts\Slider.cs" />
+     <Compile Include="Assets\Scripts\SocialNetworking.cs" />
+     <Compile Include="Assets\Scripts\Sonic\RingAnimController.cs" />
+     <Compile Include="Assets\Scripts\Sonic\SonicAnimationController.cs" />
+     <Compile Include="Assets\Scripts\Starbucks\SB_Album.cs" />
+     <Compile Include="Assets\Scripts\Starbucks\SB_ButtonController.cs" />
+     <Compile Include="Assets\Scripts\Starbucks\SB_SwipeDrag.cs" />
+     <Compile Include="Assets\Scripts\Starbucks\StarbucksTrackableEventHandler.cs" />
+     <Compile Include="Assets\Scripts\StreamingAudioTrackableEventHandler.cs" />
+     <Compile Include="Assets\Scripts\TimeLabels.cs" />
+     <Compile Include="Assets\Scripts\TrackerEventHandler.cs" />
+     <Compile Include="Assets\Scripts\UsherAnimController.cs" />
+     <Compile Include="Assets\Scripts\UsherTrackableEventHandler.cs" />
+     <Compile Include="Assets\Scripts\VBSoccerballEventHandler.cs" />
+     <Compile Include="Assets\Scripts\VideoTrackableEventHandler.cs" />
+     <Compile Include="Assets\Scripts\VirtualButtonEventHandler.cs" />
+     <Compile Include="Assets\Scripts\ZoomPinch.cs" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlendOneOne.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\NoiseEffectShaderRGB.shader" />
+     <None Include="Assets\Fonts\Futura.txt" />
+     <None Include="Assets\Shaders\FXHyperbolicStatic.shader" />
+     <None Include="Assets\Plugins\AnBSoft Common\Standard Font\Arial, Fancy.txt" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />
+     <None Include="Assets\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Transparent Vertex Color.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\GlowConeTap.shader" />
+     <None Include="Assets\Plugins\AnBSoft Common\Standard Shaders\Sprite Vertex Colored, Fast.shader" />
+     <None Include="Assets\license_3rdpartynotice.txt" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\SunShaftsComposite.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ColorCorrectionCurves.shader" />
+     <None Include="Assets\Plugins\AnBSoft Common\Standard Shaders\Sprite Simple Texture .shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\NFAA.shader" />
+     <None Include="Assets\Shaders\ReflectiveBumpedTransparent.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\VignetteShader.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\DepthOfFieldScatter.shader" />
+     <None Include="Assets\Qualcomm Augmented Reality\Shaders\RenderVideoBackground.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\MotionBlur.shader" />
+     <None Include="Assets\License_Readme.txt" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\GlowCompose.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\Contrast Stretch\MinMaxReduction.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\SSAA.shader" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\RadialBlur.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\DepthOfFieldDX11.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ContrastComposite.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\FXAAPreset3.shader" />
+     <None Include="Assets\Plugins\AnBSoft Common\Standard Shaders\Sprite Cutout.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\FisheyeShader.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\Contrast Stretch\Apply.shader" />
+     <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\DepthOfField34.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\TiltShift.shader" />
+     <None Include="Assets\license.txt" />
+     <None Include="Assets\readme_SDK.txt" />
+     <None Include="Assets\StreamingAssets\QCAR\ProofOfConcept.xml" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\SSAOShader.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ConvertDepth.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ColorCorrectionCurvesSimple.shader" />
+     <None Include="Assets\Editor\QCAR\WebcamProfiles\profiles.xml" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\NoiseEffectShaderYUV.shader" />
+     <None Include="Assets\Qualcomm Augmented Reality\Shaders\DepthMask.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\GlowEffectDownsample.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\CreaseApply.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ChromaticAberrationShader.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\GlobalFog.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\Contrast Stretch\Luminance.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ColorCorrectionSelective.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\Bokeh34.shader" />
+     <None Include="Assets\Shaders\DepthMask.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\CameraMotionBlurDX11.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\SeparableBlurPlus.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\MultiPassHollywoodFlares.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\BlurEffectConeTaps.shader" />
+     <None Include="Assets\Mega-Fiers\ReadMe.txt" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\CameraMotionBlur.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\DLAA.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\NoiseAndGrainDX11.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BrightPassFilter2.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\SeparableBlur.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\MotionBlurClear.shader" />
+     <None Include="Assets\Plugins\AnBSoft Common\Standard Shaders\Sprite Vertex Colored.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ColorCorrectionEffect.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\GrayscaleEffect.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\SepiaToneEffect.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\TwirlEffect.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\VortexEffect.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\Contrast Stretch\Adaptation.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\NoiseAndGrain.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\VignettingShader.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\Tonemapper.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BrightPassFilter.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\FXAA2.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\ColorCorrection3DLut.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\LensFlareCreate.shader" />
+     <None Include="Assets\Shaders\SolidTransparent.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\EdgeDetectNormals.shader" />
+     <None Include="Assets\Shaders\Depth Mask Simple (Terrain).shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\PrepareSunShaftsBlur.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\Blend.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\BlendModesOverlay.shader" />
+     <None Include="Assets\StreamingAssets\QCAR\Sunjammer.xml" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\SimpleClear.shader" />
+     <None Include="Assets\Shaders\BumpedAnisotropic.shader" />
+     <None Include="Assets\StreamingAssets\QCAR\unity.txt" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\FXAA3Console.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\EdgeDetectX.shader" />
+     <None Include="Assets\Qualcomm Augmented Reality\Shaders\Text3D.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\FXAAPreset2.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
+     <None Include="Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlendForBloom.shader" />
+ <Reference Include="Assets\Plugins\Prime31\P31RestKit">
+ <HintPath>Assets\Plugins\Prime31\P31RestKit.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{4EBC9F13-3C8F-060E-9D1F-2308C628C9BC}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
+      <Project>{D160A1CD-9AE6-A6A3-99D1-B0786DF7C4E6}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

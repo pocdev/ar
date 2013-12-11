@@ -1,0 +1,89 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Gestures.cs">
+    <Files>
+      <File FileName="../ToB_ActiveDev/Assets/Scripts/Presentation/.svn/text-base/p_FBLoginHandler.cs.svn-base" Line="1" Column="1" />
+      <File FileName="../ToB_ActiveDev/Assets/Scripts/Proxy/.svn/text-base/CGame.cs.svn-base" Line="10" Column="38" />
+      <File FileName="../ToB_ActiveDev/Assets/Scripts/Presentation/.svn/text-base/p_AlertButtonTextHandler.cs.svn-base" Line="141" Column="2" />
+      <File FileName="../ToB_ActiveDev/Assets/Scripts/Presentation/.svn/text-base/p_ChallengeHandler.cs.svn-base" Line="81" Column="2" />
+      <File FileName="../ToB_ActiveDev/Assets/Scripts/Presentation/.svn/text-base/p_EndGameHandler.cs.svn-base" Line="204" Column="2" />
+      <File FileName="../ToB_ActiveDev/Assets/Scripts/Presentation/.svn/text-base/p_MatchHandler.cs.svn-base" Line="1" Column="1" />
+      <File FileName="../ToB_ActiveDev/Assets/Scripts/Presentation/.svn/text-base/p_ProxyHandler.cs.svn-base" Line="250" Column="3" />
+      <File FileName="../ToB_ActiveDev/Assets/Scripts/Presentation/.svn/text-base/p_ProxyHandlerCallbacks.cs.svn-base" Line="1" Column="1" />
+      <File FileName="../ToB_ActiveDev/Assets/Scripts/Presentation/.svn/tmp/p_ProxyHandlerCallbacks.cs.tmp" Line="642" Column="5" />
+      <File FileName="../ToB_ActiveDev/Assets/Scripts/Common/.svn/text-base/ToolBox.cs.svn-base" Line="1" Column="1" />
+      <File FileName="../ToB_ActiveDev/Assets/Scripts/Presentation/.svn/text-base/GameRestorer.cs.svn-base" Line="57" Column="35" />
+      <File FileName="Assets/Plugins/EZ/GUI/Management/UIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/AnBSoft Common/Standard Shaders/Sprite Vertex Colored, Fast.shader" Line="1" Column="1" />
+      <File FileName="Assets/Shaders/SolidTransparent.shader" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Menu/AdditiveLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GumbyAnimController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Home.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AnimationLooper.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UsherTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UsherAnimController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SetRenderQueue.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Menu/ImagePreview.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Menu/SwipeDetection.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Menu/ToggleButtonController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SimpleRotate.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Keds/ChangeColor.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Keds/KedsCustomizer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Keds/Pick.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Keds/KedsTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Keds/AddToCartController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Gestures.cs" Line="176" Column="39" />
+      <File FileName="Assets/Scripts/Starbucks/StarbucksTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Starbucks/SB_SwipeDrag.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Starbucks/SB_ButtonController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Menu/AttachUIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/VideoTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AudioTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Albums/IconController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Albums/LightPulse.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/StreamingAudioTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Starbucks/SB_Album.cs" Line="39" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Albums" expanded="True" />
+                <Node name="Keds" expanded="True" />
+                <Node name="Menu" expanded="True" />
+                <Node name="Starbucks" expanded="True" />
+                <Node name="Gestures.cs" selected="True" />
+              </Node>
+              <Node name="Shaders" expanded="True" />
+            </Node>
+          </Node>
+          <Node name="Assembly-CSharp-firstpass" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Plugins" expanded="True">
+                <Node name="EZ" expanded="True">
+                  <Node name="GUI" expanded="True">
+                    <Node name="Management" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/adam/Concord_AR/Assets/Scripts/KedsCustomizer.cs" line="28" />
+      <Breakpoint file="/Users/adam/Concord_AR/Assets/Scripts/Starbucks/SB_HitTest.cs" line="32" />
+      <Breakpoint file="/Users/adam/Concord_AR/Assets/Scripts/Starbucks/SB_RotateCollection.cs" line="53" />
+      <Breakpoint file="/Users/adam/Concord_AR/Assets/Scripts/Menu/ToggleController.cs" line="43" />
+      <Breakpoint file="/Users/adam/Concord_AR/Assets/Scripts/Menu/ImagePreview.cs" line="43" />
+      <Breakpoint file="/Users/adam/Concord_AR/Assets/Scripts/UIManagerManager.cs" line="13" />
+      <Breakpoint file="/Users/adam/Concord_AR/Assets/Scripts/UsherTrackableEventHandler.cs" line="103" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,467 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)
+END
+GrayscaleEffect.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/GrayscaleEffect.cs.meta
+END
+TwirlEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/TwirlEffect.cs
+END
+MotionBlur.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/MotionBlur.cs.meta
+END
+PostEffectsHelper.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/PostEffectsHelper.js.meta
+END
+SSAOEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/SSAOEffect.cs
+END
+Vignetting.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/Vignetting.js
+END
+GrayscaleEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/GrayscaleEffect.cs
+END
+NoiseEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/NoiseEffect.cs
+END
+DepthOfFieldScatter.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/DepthOfFieldScatter.js
+END
+CameraMotionBlur.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/CameraMotionBlur.js.meta
+END
+EdgeDetectEffect.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/EdgeDetectEffect.cs.meta
+END
+SepiaToneEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/SepiaToneEffect.cs
+END
+ColorCorrectionCurves.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/ColorCorrectionCurves.js
+END
+TiltShift.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/TiltShift.js.meta
+END
+ColorCorrectionEffect.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/ColorCorrectionEffect.cs.meta
+END
+Crease.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/Crease.js
+END
+ContrastEnhance.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/ContrastEnhance.js.meta
+END
+EdgeDetectEffectNormals.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/EdgeDetectEffectNormals.js
+END
+ImageEffectBase.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/ImageEffectBase.cs.meta
+END
+BlurEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/BlurEffect.cs
+END
+BloomAndLensFlares.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/BloomAndLensFlares.js
+END
+AntialiasingAsPostEffect.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/AntialiasingAsPostEffect.js
+END
+ColorCorrectionEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/ColorCorrectionEffect.cs
+END
+Quads.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/Quads.js
+END
+Triangles.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/Triangles.js.meta
+END
+SunShafts.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/SunShafts.js
+END
+ScreenOverlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/ScreenOverlay.js
+END
+Tonemapping.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/Tonemapping.js
+END
+SepiaToneEffect.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/SepiaToneEffect.cs.meta
+END
+MotionBlur.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/MotionBlur.cs
+END
+Triangles.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/Triangles.js
+END
+Bloom.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/Bloom.js.meta
+END
+VortexEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/VortexEffect.cs
+END
+ImageEffects.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/ImageEffects.cs.meta
+END
+Quads.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/Quads.js.meta
+END
+CameraMotionBlur.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/CameraMotionBlur.js
+END
+EdgeDetectEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/EdgeDetectEffect.cs
+END
+Vignetting.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/Vignetting.js.meta
+END
+ScreenOverlay.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/ScreenOverlay.js.meta
+END
+Tonemapping.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/Tonemapping.js.meta
+END
+Bloom.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/Bloom.js
+END
+GlowEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/GlowEffect.cs
+END
+ContrastEnhance.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/ContrastEnhance.js
+END
+ColorCorrectionLut.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/ColorCorrectionLut.js.meta
+END
+NoiseAndGrain.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/NoiseAndGrain.js
+END
+VortexEffect.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/VortexEffect.cs.meta
+END
+ImageEffectBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/ImageEffectBase.cs
+END
+ColorCorrectionCurves.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/ColorCorrectionCurves.js.meta
+END
+ContrastStretchEffect.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/ContrastStretchEffect.cs.meta
+END
+Crease.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/Crease.js.meta
+END
+CameraInfo.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/CameraInfo.js.meta
+END
+DepthOfField34.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/DepthOfField34.js.meta
+END
+EdgeDetectEffectNormals.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/EdgeDetectEffectNormals.js.meta
+END
+TwirlEffect.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/TwirlEffect.cs.meta
+END
+BlurEffect.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/BlurEffect.cs.meta
+END
+BloomAndLensFlares.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/BloomAndLensFlares.js.meta
+END
+AntialiasingAsPostEffect.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/AntialiasingAsPostEffect.js.meta
+END
+SSAOEffect.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/SSAOEffect.cs.meta
+END
+ContrastStretchEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/ContrastStretchEffect.cs
+END
+SunShafts.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/SunShafts.js.meta
+END
+CameraInfo.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/CameraInfo.js
+END
+DepthOfField34.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/DepthOfField34.js
+END
+PostEffectsBase.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/PostEffectsBase.js.meta
+END
+NoiseAndGrain.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/NoiseAndGrain.js.meta
+END
+NoiseEffect.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/NoiseEffect.cs.meta
+END
+DepthOfFieldScatter.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/DepthOfFieldScatter.js.meta
+END
+TiltShift.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/TiltShift.js
+END
+ImageEffects.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/ImageEffects.cs
+END
+PostEffectsBase.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/PostEffectsBase.js
+END
+GlobalFog.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/GlobalFog.js.meta
+END
+Fisheye.js.meta
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/Fisheye.js.meta
+END
+PostEffectsHelper.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/PostEffectsHelper.js
+END
+ColorCorrectionLut.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/ColorCorrectionLut.js
+END
+GlobalFog.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/GlobalFog.js
+END
+Fisheye.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/Fisheye.js
+END
+_Sources.meta
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources.meta
+END
+GlowEffect.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/GlowEffect.cs.meta
+END

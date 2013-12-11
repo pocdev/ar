@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Howling" size="1258.000000 1812.000000" />
+    <ImageTarget name="SwiveLock" size="848.415894 1084.000000" />
+    <ImageTarget name="PushLock" size="716.259766 917.000000" />
+    <ImageTarget name="RR" size="525.000000 300.000000" />
+    <ImageTarget name="DM" size="1275.000000 825.000000" />
+    <ImageTarget name="PartyTarget" size="2400.000000 1125.000000" />
+    <ImageTarget name="Owl_City_Staples_Center" size="1200.000000 563.000000" />
+    <ImageTarget name="Republic2" size="900.000000 600.000000" />
+    <ImageTarget name="Nicki_Front" size="1430.382202 1407.000000" />
+    <ImageTarget name="Nicki_Minaj_Inside" size="706.035950 701.000000" />
+    <ImageTarget name="MarioLevel" size="2560.000000 1440.000000" />
+    <ImageTarget name="Chanel" size="680.422729 957.000000" />
+    <ImageTarget name="Keds" size="1454.042236 2136.000000" />
+    <ImageTarget name="starbucks_skewed" size="300.000000 342.000000" />
+    <ImageTarget name="starbucks" size="300.000000 300.000000" />
+    <ImageTarget name="Meiko" size="512.000000 512.000000" />
+    <ImageTarget name="McCartney" size="512.000000 512.000000" />
+    <ImageTarget name="LittleRichard" size="512.000000 512.000000" />
+    <ImageTarget name="Belvedere" size="512.000000 691.000000" />
+    <ImageTarget name="Haynes" size="512.000000 512.000000" />
+    <ImageTarget name="Hayes" size="512.000000 512.000000" />
+    <ImageTarget name="Gumby" size="512.166016 769.000000" />
+    <ImageTarget name="Chieftains" size="512.000000 512.000000" />
+  </Tracking>
+</QCARConfig>

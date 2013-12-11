@@ -1,0 +1,473 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders
+END
+Tonemapper.shader
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/Tonemapper.shader
+END
+BlendModesOverlay.shader
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/BlendModesOverlay.shader
+END
+SSAOShader.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/SSAOShader.shader.meta
+END
+NoiseAndGrain.shader
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/NoiseAndGrain.shader
+END
+ColorCorrection3DLut.shader
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/ColorCorrection3DLut.shader
+END
+_Antialiasing.meta
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_Antialiasing.meta
+END
+CameraMotionBlur.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/CameraMotionBlur.shader.meta
+END
+VortexEffect.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/VortexEffect.shader.meta
+END
+SimpleClear.shader
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/SimpleClear.shader
+END
+NoiseEffectShaderRGB.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/NoiseEffectShaderRGB.shader.meta
+END
+MotionBlurClear.shader
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/MotionBlurClear.shader
+END
+BlurEffectConeTaps.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/BlurEffectConeTaps.shader.meta
+END
+TwirlEffect.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/TwirlEffect.shader.meta
+END
+ContrastComposite.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/ContrastComposite.shader.meta
+END
+Contrast Stretch.meta
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/Contrast%20Stretch.meta
+END
+EdgeDetectX.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/EdgeDetectX.shader.meta
+END
+BlurEffectConeTaps.shader
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/BlurEffectConeTaps.shader
+END
+EdgeDetectNormals.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/EdgeDetectNormals.shader.meta
+END
+TwirlEffect.shader
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/TwirlEffect.shader
+END
+GlowEffectDownsample.shader
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/GlowEffectDownsample.shader
+END
+RadialBlur.shader
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/RadialBlur.shader
+END
+GlowCompose.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/GlowCompose.shader.meta
+END
+CameraMotionBlurDX11.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/CameraMotionBlurDX11.shader.meta
+END
+SunShaftsComposite.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/SunShaftsComposite.shader.meta
+END
+GrayscaleEffect.shader
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/GrayscaleEffect.shader
+END
+VignettingShader.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/VignettingShader.shader.meta
+END
+GlobalFog.shader
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/GlobalFog.shader
+END
+ColorCorrectionCurvesSimple.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/ColorCorrectionCurvesSimple.shader.meta
+END
+CreaseApply.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/CreaseApply.shader.meta
+END
+GlowCompose.shader
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/GlowCompose.shader
+END
+GlowEffectDownsample.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/GlowEffectDownsample.shader.meta
+END
+SepiaToneEffect.shader
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/SepiaToneEffect.shader
+END
+PrepareSunShaftsBlur.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/PrepareSunShaftsBlur.shader.meta
+END
+_BloomAndFlares.meta
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares.meta
+END
+NoiseEffectShaderYUV.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/NoiseEffectShaderYUV.shader.meta
+END
+GrayscaleEffect.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/GrayscaleEffect.shader.meta
+END
+MotionBlur.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/MotionBlur.shader.meta
+END
+PrepareSunShaftsBlur.shader
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/PrepareSunShaftsBlur.shader
+END
+FisheyeShader.shader
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/FisheyeShader.shader
+END
+ColorCorrectionCurves.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/ColorCorrectionCurves.shader.meta
+END
+ColorCorrectionEffect.shader
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/ColorCorrectionEffect.shader
+END
+EdgeDetectX.shader
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/EdgeDetectX.shader
+END
+SimpleClear.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/SimpleClear.shader.meta
+END
+EdgeDetectNormals.shader
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/EdgeDetectNormals.shader
+END
+MotionBlur.shader
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/MotionBlur.shader
+END
+ConvertDepth.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/ConvertDepth.shader.meta
+END
+SSAOShader.shader
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/SSAOShader.shader
+END
+ColorCorrectionCurves.shader
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/ColorCorrectionCurves.shader
+END
+ColorCorrectionSelective.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/ColorCorrectionSelective.shader.meta
+END
+CameraMotionBlurDX11.shader
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/CameraMotionBlurDX11.shader
+END
+SunShaftsComposite.shader
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/SunShaftsComposite.shader
+END
+VortexEffect.shader
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/VortexEffect.shader
+END
+VignettingShader.shader
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/VignettingShader.shader
+END
+NoiseAndGrain.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/NoiseAndGrain.shader.meta
+END
+GlowConeTap.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/GlowConeTap.shader.meta
+END
+ChromaticAberrationShader.shader
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/ChromaticAberrationShader.shader
+END
+FisheyeShader.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/FisheyeShader.shader.meta
+END
+ColorCorrectionEffect.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/ColorCorrectionEffect.shader.meta
+END
+ColorCorrectionSelective.shader
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/ColorCorrectionSelective.shader
+END
+_DepthOfField.meta
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_DepthOfField.meta
+END
+NoiseEffectShaderRGB.shader
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/NoiseEffectShaderRGB.shader
+END
+NoiseAndGrainDX11.shader
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/NoiseAndGrainDX11.shader
+END
+ContrastComposite.shader
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/ContrastComposite.shader
+END
+GlobalFog.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/GlobalFog.shader.meta
+END
+GlowConeTap.shader
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/GlowConeTap.shader
+END
+NoiseEffectShaderYUV.shader
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/NoiseEffectShaderYUV.shader
+END
+MotionBlurClear.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/MotionBlurClear.shader.meta
+END
+SepiaToneEffect.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/SepiaToneEffect.shader.meta
+END
+ChromaticAberrationShader.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/ChromaticAberrationShader.shader.meta
+END
+Tonemapper.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/Tonemapper.shader.meta
+END
+CameraMotionBlur.shader
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/CameraMotionBlur.shader
+END
+BlendModesOverlay.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/BlendModesOverlay.shader.meta
+END
+NoiseAndGrainDX11.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/NoiseAndGrainDX11.shader.meta
+END
+ConvertDepth.shader
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/ConvertDepth.shader
+END
+RadialBlur.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/RadialBlur.shader.meta
+END
+ColorCorrection3DLut.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/ColorCorrection3DLut.shader.meta
+END
+ColorCorrectionCurvesSimple.shader
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/ColorCorrectionCurvesSimple.shader
+END
+CreaseApply.shader
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/CreaseApply.shader
+END

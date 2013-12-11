@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 26e0928e1933740c7bc8cc808fc5dffa
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Bone01_(1)
+    100002: Bone01_(2)
+    100004: Bone01_(3)
+    100006: Bone01_(4)
+    100008: Bone01_(5)
+    100010: Bone01_(6)
+    100012: Bone02_(1)
+    100014: Bone02_(2)
+    100016: Bone02_(3)
+    100018: Bone02_(4)
+    100020: Bone02_(5)
+    100022: Bone03_(1)
+    100024: Bone03_(2)
+    100026: Bone03_(3)
+    100028: Bone03_(4)
+    100030: Bone03_(5)
+    100032: Bone04_(1)
+    100034: Bone04_(2)
+    100036: Bone04_(3)
+    100038: Bone05
+    100040: Bone06
+    100042: Bone07
+    100044: Camera
+    100046: duck
+    100048: //RootNode
+    100050: Light
+    400000: Bone01_(1)
+    400002: Bone01_(2)
+    400004: Bone01_(3)
+    400006: Bone01_(4)
+    400008: Bone01_(5)
+    400010: Bone01_(6)
+    400012: Bone02_(1)
+    400014: Bone02_(2)
+    400016: Bone02_(3)
+    400018: Bone02_(4)
+    400020: Bone02_(5)
+    400022: Bone03_(1)
+    400024: Bone03_(2)
+    400026: Bone03_(3)
+    400028: Bone03_(4)
+    400030: Bone03_(5)
+    400032: Bone04_(1)
+    400034: Bone04_(2)
+    400036: Bone04_(3)
+    400038: Bone05
+    400040: Bone06
+    400042: Bone07
+    400044: Camera
+    400046: duck
+    400048: //RootNode
+    400050: Light
+    4300000: duck
+    7400000: Base Stack
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: duck
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 90
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: duck
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

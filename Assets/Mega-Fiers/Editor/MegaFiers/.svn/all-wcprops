@@ -1,0 +1,869 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Mega-Fiers/Editor/MegaFiers
+END
+MegaTwistEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaTwistEditor.cs
+END
+MegaMorphEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaMorphEditor.cs.meta
+END
+Warps.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/Warps.meta
+END
+MegaMorphAnimatorEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Mega-Fiers/Editor/MegaFiers/MegaMorphAnimatorEditor.cs
+END
+MegaCurveDeformEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Mega-Fiers/Editor/MegaFiers/MegaCurveDeformEditor.cs
+END
+MegaDisplaceEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaDisplaceEditor.cs
+END
+MegaPageFlipEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaPageFlipEditor.cs
+END
+MegaWaveEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaWaveEditor.cs.meta
+END
+MegaUVAdjustEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaUVAdjustEditor.cs.meta
+END
+MegaCylindrifyEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaCylindrifyEditor.cs.meta
+END
+MegaRopeDeformEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaRopeDeformEditor.cs
+END
+MegaWrapEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Mega-Fiers/Editor/MegaFiers/MegaWrapEditor.cs
+END
+MegaPaintEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaPaintEditor.cs
+END
+MegaFFD4x4x4Editor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaFFD4x4x4Editor.cs
+END
+MegaPivotAdjustEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaPivotAdjustEditor.cs
+END
+MegaFiersWindow.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaFiersWindow.cs.meta
+END
+MegaDynamicRippleEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaDynamicRippleEditor.cs.meta
+END
+MegaFFD2x2x2Editor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaFFD2x2x2Editor.cs.meta
+END
+MegaPointCacheAnimatorEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaPointCacheAnimatorEditor.cs.meta
+END
+MegaFFD3x3x3Editor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaFFD3x3x3Editor.cs.meta
+END
+MegaSkewEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaSkewEditor.cs.meta
+END
+MegaPaintEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaPaintEditor.cs.meta
+END
+MegaFFD4x4x4Editor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaFFD4x4x4Editor.cs.meta
+END
+MegaAttachEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaAttachEditor.cs
+END
+MegaMorphAnimatorEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaMorphAnimatorEditor.cs.meta
+END
+MegaMatSelectEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Mega-Fiers/Editor/MegaFiers/MegaMatSelectEditor.cs.meta
+END
+MegaStretchEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaStretchEditor.cs
+END
+MegaNoiseEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaNoiseEditor.cs
+END
+MegaCopyObjects.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaCopyObjects.cs
+END
+MegaSpherifyEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaSpherifyEditor.cs.meta
+END
+MegaPathDeformEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaPathDeformEditor.cs.meta
+END
+MegaPushEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaPushEditor.cs
+END
+MegaMorphAnimEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaMorphAnimEditor.cs.meta
+END
+MegaSelectionEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaSelectionEditor.cs
+END
+MegaCurveSculptLayeredEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaCurveSculptLayeredEditor.cs
+END
+MegaMeltEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaMeltEditor.cs.meta
+END
+MegaGlobeEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Mega-Fiers/Editor/MegaFiers/MegaGlobeEditor.cs
+END
+MegaFiersWindow.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaFiersWindow.cs
+END
+MegaModifyGroupEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaModifyGroupEditor.cs.meta
+END
+MegaSinusCurveEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaSinusCurveEditor.cs.meta
+END
+MegaParseEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaParseEditor.cs.meta
+END
+MegaVertNoiseEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaVertNoiseEditor.cs.meta
+END
+MegaWaveMeshEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaWaveMeshEditor.cs.meta
+END
+MegaSinusCurveEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaSinusCurveEditor.cs
+END
+MegaMorphOMaticEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaMorphOMaticEditor.cs.meta
+END
+MegaBendEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaBendEditor.cs
+END
+MegaSkewEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaSkewEditor.cs
+END
+MegaCylindrifyEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaCylindrifyEditor.cs
+END
+MegaVertNoiseEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaVertNoiseEditor.cs
+END
+MegaMatSelectEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Mega-Fiers/Editor/MegaFiers/MegaMatSelectEditor.cs
+END
+MegaFFDEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaFFDEditor.cs.meta
+END
+MegaSpherifyEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaSpherifyEditor.cs
+END
+MegaPathDeformEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaPathDeformEditor.cs
+END
+MegaUVTilesEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaUVTilesEditor.cs
+END
+MegaTwistEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaTwistEditor.cs.meta
+END
+MegaMeltEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaMeltEditor.cs
+END
+MegaModifyObjectEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaModifyObjectEditor.cs.meta
+END
+MegaMorphLinkEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaMorphLinkEditor.cs
+END
+MegaCurveSculptEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaCurveSculptEditor.cs.meta
+END
+MegaSqueezeEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaSqueezeEditor.cs.meta
+END
+MegaMultiVolSelectEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Mega-Fiers/Editor/MegaFiers/MegaMultiVolSelectEditor.cs
+END
+MegaGlobeEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Mega-Fiers/Editor/MegaFiers/MegaGlobeEditor.cs.meta
+END
+MegaModifyObjectEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaModifyObjectEditor.cs
+END
+MegaSimpleModEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaSimpleModEditor.cs.meta
+END
+MegaUVTilesEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaUVTilesEditor.cs.meta
+END
+MegaVertexAnimEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaVertexAnimEditor.cs
+END
+MegaRopeDeformEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaRopeDeformEditor.cs.meta
+END
+MegaTreeBendEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaTreeBendEditor.cs
+END
+MegaMorphLinkEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaMorphLinkEditor.cs.meta
+END
+MegaDisplaceLimitsEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaDisplaceLimitsEditor.cs.meta
+END
+MegaWavingEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Mega-Fiers/Editor/MegaFiers/MegaWavingEditor.cs
+END
+MegaCrumpleEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaCrumpleEditor.cs.meta
+END
+MegaBendEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaBendEditor.cs.meta
+END
+MegaHumpEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaHumpEditor.cs.meta
+END
+MegaMultiVolSelectEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaMultiVolSelectEditor.cs.meta
+END
+MegaVolSelectEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Mega-Fiers/Editor/MegaFiers/MegaVolSelectEditor.cs
+END
+MegaNoiseEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaNoiseEditor.cs.meta
+END
+MegaCopyObjects.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaCopyObjects.cs.meta
+END
+MegaWaveEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaWaveEditor.cs
+END
+MegaWireDeformEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaWireDeformEditor.cs
+END
+MegaModifyGroupEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaModifyGroupEditor.cs
+END
+MegaRubberEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaRubberEditor.cs.meta
+END
+MegaDisplaceLimitsEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaDisplaceLimitsEditor.cs
+END
+MegaSelectionEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaSelectionEditor.cs.meta
+END
+MegaCurveSculptLayeredEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaCurveSculptLayeredEditor.cs.meta
+END
+MegaPageFlipEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaPageFlipEditor.cs.meta
+END
+MegaPointCacheEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Mega-Fiers/Editor/MegaFiers/MegaPointCacheEditor.cs
+END
+MegaWavingEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Mega-Fiers/Editor/MegaFiers/MegaWavingEditor.cs.meta
+END
+MegaSqueezeEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaSqueezeEditor.cs
+END
+MegaMorphEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Mega-Fiers/Editor/MegaFiers/MegaMorphEditor.cs
+END
+MegaDeepCopy.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaDeepCopy.cs.meta
+END
+MegaWorldPathDeformEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaWorldPathDeformEditor.cs.meta
+END
+MegaWireDeformEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaWireDeformEditor.cs.meta
+END
+MegaSimpleModEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaSimpleModEditor.cs
+END
+MegaRippleEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaRippleEditor.cs
+END
+MegaVertColSelectEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaVertColSelectEditor.cs.meta
+END
+MegaUVAdjustEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaUVAdjustEditor.cs
+END
+MegaDisplaceEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaDisplaceEditor.cs.meta
+END
+MegaHumpEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaHumpEditor.cs
+END
+MegaShape.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaShape.meta
+END
+MegaTaperEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaTaperEditor.cs
+END
+MegaTreeBendEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaTreeBendEditor.cs.meta
+END
+MegaVertColSelectEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Mega-Fiers/Editor/MegaFiers/MegaVertColSelectEditor.cs
+END
+MegaSimpleEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaSimpleEditor.cs.meta
+END
+MegaWaveMeshEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaWaveMeshEditor.cs
+END
+MegaRippleEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaRippleEditor.cs.meta
+END
+MegaRubberEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaRubberEditor.cs
+END
+MegaUndo.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaUndo.cs.meta
+END
+MegaBulgeEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaBulgeEditor.cs.meta
+END
+MegaFFDAnimateEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaFFDAnimateEditor.cs.meta
+END
+MegaModifierEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaModifierEditor.cs.meta
+END
+MegaVolSelectEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaVolSelectEditor.cs.meta
+END
+MegaMorphAnimEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaMorphAnimEditor.cs
+END
+MegaBubbleEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaBubbleEditor.cs
+END
+MegaWarpBindEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaWarpBindEditor.cs.meta
+END
+MegaUndo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaUndo.cs
+END
+MegaBulgeEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaBulgeEditor.cs
+END
+MegaFFDAnimateEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaFFDAnimateEditor.cs
+END
+MegaModifierEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaModifierEditor.cs
+END
+MegaFFDEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaFFDEditor.cs
+END
+MegaTaperEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaTaperEditor.cs.meta
+END
+MegaPivotAdjustEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaPivotAdjustEditor.cs.meta
+END
+MegaDeepCopy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaDeepCopy.cs
+END
+MegaWorldPathDeformEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaWorldPathDeformEditor.cs
+END
+MegaPushEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaPushEditor.cs.meta
+END
+MegaFFD2x2x2Editor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaFFD2x2x2Editor.cs
+END
+MegaWarpBindEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaWarpBindEditor.cs
+END
+MegaCurveDeformEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaCurveDeformEditor.cs.meta
+END
+MegaParseEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaParseEditor.cs
+END
+MegaRadialSkewEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaRadialSkewEditor.cs.meta
+END
+MegaCurveSculptEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaCurveSculptEditor.cs
+END
+MegaBubbleEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaBubbleEditor.cs.meta
+END
+MegaMorphOMaticEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaMorphOMaticEditor.cs
+END
+MegaRadialSkewEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaRadialSkewEditor.cs
+END
+MegaSimpleEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaSimpleEditor.cs
+END
+MegaAttachEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaAttachEditor.cs.meta
+END
+MegaWrapEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaWrapEditor.cs.meta
+END
+MegaDynamicRippleEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaDynamicRippleEditor.cs
+END
+MegaStretchEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaStretchEditor.cs.meta
+END
+MegaPointCacheEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaPointCacheEditor.cs.meta
+END
+MegaVertexAnimEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaVertexAnimEditor.cs.meta
+END
+MegaCrumpleEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaCrumpleEditor.cs
+END
+MegaPointCacheAnimatorEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Mega-Fiers/Editor/MegaFiers/MegaPointCacheAnimatorEditor.cs
+END
+MegaFFD3x3x3Editor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Proof_of_Concept/AR/svn/!svn/ver/60/Assets/Mega-Fiers/Editor/MegaFiers/MegaFFD3x3x3Editor.cs
+END

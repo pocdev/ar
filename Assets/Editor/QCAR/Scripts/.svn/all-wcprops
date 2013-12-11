@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts
+END
+DataSetToTrackableMenu.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Editor/QCAR/Scripts/DataSetToTrackableMenu.cs.meta
+END
+TargetDataPostprocessor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Editor/QCAR/Scripts/TargetDataPostprocessor.cs.meta
+END
+SceneManager.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Editor/QCAR/Scripts/SceneManager.cs.meta
+END
+MarkerEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Editor/QCAR/Scripts/MarkerEditor.cs.meta
+END
+ConfigDataManager.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Editor/QCAR/Scripts/ConfigDataManager.cs.meta
+END
+DataSetLoadEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Editor/QCAR/Scripts/DataSetLoadEditor.cs.meta
+END
+SetBGCameraLayerEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/SetBGCameraLayerEditor.cs
+END
+UserDefinedTargetBuilderEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/UserDefinedTargetBuilderEditor.cs
+END
+WordEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/WordEditor.cs
+END
+ImageTargetEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Editor/QCAR/Scripts/ImageTargetEditor.cs.meta
+END
+CloudRecoEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/CloudRecoEditor.cs
+END
+TextConfigData.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/TextConfigData.cs.meta
+END
+AccessorFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/AccessorFactory.cs
+END
+WebCamEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Editor/QCAR/Scripts/WebCamEditor.cs.meta
+END
+MultiTargetEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Editor/QCAR/Scripts/MultiTargetEditor.cs.meta
+END
+TrackableAccessor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Editor/QCAR/Scripts/TrackableAccessor.cs.meta
+END
+TrackerEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/TrackerEditor.cs
+END
+MarkerAccessor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/MarkerAccessor.cs
+END
+TextRecoEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/TextRecoEditor.cs
+END
+WebCamEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/WebCamEditor.cs
+END
+UserDefinedTargetBuilderEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Editor/QCAR/Scripts/UserDefinedTargetBuilderEditor.cs.meta
+END
+WordEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/WordEditor.cs.meta
+END
+CloudRecoEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Editor/QCAR/Scripts/CloudRecoEditor.cs.meta
+END
+TrackableAccessor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/TrackableAccessor.cs
+END
+ImageTargetAccessor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/ImageTargetAccessor.cs
+END
+VirtualButtonEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Editor/QCAR/Scripts/VirtualButtonEditor.cs.meta
+END
+AccessorFactory.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Editor/QCAR/Scripts/AccessorFactory.cs.meta
+END
+QCARUtilities.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/QCARUtilities.cs
+END
+ConfigParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/ConfigParser.cs
+END
+QCARHelpMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/QCARHelpMenu.cs
+END
+MultiTargetAccessor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/MultiTargetAccessor.cs
+END
+ConfigData.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Editor/QCAR/Scripts/ConfigData.cs.meta
+END
+DataSetToTrackableMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/DataSetToTrackableMenu.cs
+END
+TargetDataPostprocessor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/TargetDataPostprocessor.cs
+END
+TrackerEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Editor/QCAR/Scripts/TrackerEditor.cs.meta
+END
+SceneManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/SceneManager.cs
+END
+MarkerEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/MarkerEditor.cs
+END
+MarkerAccessor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Editor/QCAR/Scripts/MarkerAccessor.cs.meta
+END
+TextRecoEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/TextRecoEditor.cs.meta
+END
+VirtualButtonEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/VirtualButtonEditor.cs
+END
+ConfigDataManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/ConfigDataManager.cs
+END
+DataSetLoadEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/DataSetLoadEditor.cs
+END
+ConfigData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/ConfigData.cs
+END
+ImageTargetEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/ImageTargetEditor.cs
+END
+ImageTargetAccessor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Editor/QCAR/Scripts/ImageTargetAccessor.cs.meta
+END
+TextConfigData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/TextConfigData.cs
+END
+SetBGCameraLayerEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Editor/QCAR/Scripts/SetBGCameraLayerEditor.cs.meta
+END
+QCARUtilities.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Editor/QCAR/Scripts/QCARUtilities.cs.meta
+END
+ConfigParser.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Editor/QCAR/Scripts/ConfigParser.cs.meta
+END
+MultiTargetEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Editor/QCAR/Scripts/MultiTargetEditor.cs
+END
+QCARHelpMenu.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Editor/QCAR/Scripts/QCARHelpMenu.cs.meta
+END
+MultiTargetAccessor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Editor/QCAR/Scripts/MultiTargetAccessor.cs.meta
+END

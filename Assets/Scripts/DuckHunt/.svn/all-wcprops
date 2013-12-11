@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Proof_of_Concept/AR/svn/!svn/ver/70/Assets/Scripts/DuckHunt
+END
+Duck.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Proof_of_Concept/AR/svn/!svn/ver/69/Assets/Scripts/DuckHunt/Duck.cs.meta
+END
+HuntableController.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/Proof_of_Concept/AR/svn/!svn/ver/69/Assets/Scripts/DuckHunt/HuntableController.cs.meta
+END
+GameController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Proof_of_Concept/AR/svn/!svn/ver/70/Assets/Scripts/DuckHunt/GameController.cs
+END
+GroundCollision.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Proof_of_Concept/AR/svn/!svn/ver/69/Assets/Scripts/DuckHunt/GroundCollision.cs.meta
+END
+Crosshairs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Proof_of_Concept/AR/svn/!svn/ver/70/Assets/Scripts/DuckHunt/Crosshairs.cs
+END
+GameController.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Proof_of_Concept/AR/svn/!svn/ver/70/Assets/Scripts/DuckHunt/GameController.cs.meta
+END
+Huntable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Proof_of_Concept/AR/svn/!svn/ver/69/Assets/Scripts/DuckHunt/Huntable.cs
+END
+DHTrackableEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/Proof_of_Concept/AR/svn/!svn/ver/69/Assets/Scripts/DuckHunt/DHTrackableEventHandler.cs
+END
+Crosshairs.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Proof_of_Concept/AR/svn/!svn/ver/70/Assets/Scripts/DuckHunt/Crosshairs.cs.meta
+END
+Duck.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Proof_of_Concept/AR/svn/!svn/ver/69/Assets/Scripts/DuckHunt/Duck.cs
+END
+HuntableController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/Proof_of_Concept/AR/svn/!svn/ver/69/Assets/Scripts/DuckHunt/HuntableController.cs
+END
+Huntable.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Proof_of_Concept/AR/svn/!svn/ver/69/Assets/Scripts/DuckHunt/Huntable.cs.meta
+END
+DHTrackableEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Proof_of_Concept/AR/svn/!svn/ver/69/Assets/Scripts/DuckHunt/DHTrackableEventHandler.cs.meta
+END
+GroundCollision.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Proof_of_Concept/AR/svn/!svn/ver/69/Assets/Scripts/DuckHunt/GroundCollision.cs
+END

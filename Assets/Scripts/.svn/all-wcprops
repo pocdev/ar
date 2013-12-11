@@ -1,0 +1,623 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts
+END
+FPSCounter.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/FPSCounter.cs.meta
+END
+AnimationTrackableEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Proof_of_Concept/AR/svn/!svn/ver/47/Assets/Scripts/AnimationTrackableEventHandler.cs.meta
+END
+VideoTrackableEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Proof_of_Concept/AR/svn/!svn/ver/69/Assets/Scripts/VideoTrackableEventHandler.cs
+END
+ParticleSystemTrackableEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/ParticleSystemTrackableEventHandler.cs
+END
+Menu.meta
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/Menu.meta
+END
+AnimClock.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/AnimClock.cs.meta
+END
+SJTrackableEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/SJTrackableEventHandler.cs
+END
+SceneController.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/SceneController.cs.meta
+END
+VBSoccerballEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/VBSoccerballEventHandler.cs.meta
+END
+PlayHardwareMovieClassPro.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Proof_of_Concept/AR/svn/!svn/ver/47/Assets/Scripts/PlayHardwareMovieClassPro.cs
+END
+GumbyAnimController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/GumbyAnimController.cs
+END
+CameraAngleSync.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/CameraAngleSync.cs
+END
+PlayCachedStreamingMovie.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Proof_of_Concept/AR/svn/!svn/ver/69/Assets/Scripts/PlayCachedStreamingMovie.cs.meta
+END
+Scrubber.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/Scrubber.cs.meta
+END
+LaunchHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Proof_of_Concept/AR/svn/!svn/ver/47/Assets/Scripts/LaunchHandler.cs.meta
+END
+CameraDeviceMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/CameraDeviceMenu.cs
+END
+SetRenderQueue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/SetRenderQueue.cs
+END
+Albums.meta
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/Albums.meta
+END
+CloudRecoEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Proof_of_Concept/AR/svn/!svn/ver/14/Assets/Scripts/CloudRecoEventHandler.cs.meta
+END
+SJScrubListener.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/SJScrubListener.cs.meta
+END
+PlayCachedStreamingMovie.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Proof_of_Concept/AR/svn/!svn/ver/69/Assets/Scripts/PlayCachedStreamingMovie.cs
+END
+Scrubber.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/Scrubber.cs
+END
+Slider.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/Slider.cs.meta
+END
+VirtualButtonEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/VirtualButtonEventHandler.cs.meta
+END
+AnimationInitializer.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Proof_of_Concept/AR/svn/!svn/ver/47/Assets/Scripts/AnimationInitializer.cs.meta
+END
+GameCenter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/GameCenter.cs
+END
+CameraUploadTest.meta
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Proof_of_Concept/AR/svn/!svn/ver/14/Assets/Scripts/CameraUploadTest.meta
+END
+CloudRecoEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Proof_of_Concept/AR/svn/!svn/ver/47/Assets/Scripts/CloudRecoEventHandler.cs
+END
+GoToWebsite.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/GoToWebsite.cs.meta
+END
+TimeLabels.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/TimeLabels.cs
+END
+CameraAngleSync.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/CameraAngleSync.cs.meta
+END
+GumbyAnimController.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/GumbyAnimController.cs.meta
+END
+SocialNetworking.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Proof_of_Concept/AR/svn/!svn/ver/11/Assets/Scripts/SocialNetworking.cs
+END
+AnimationInitializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Proof_of_Concept/AR/svn/!svn/ver/47/Assets/Scripts/AnimationInitializer.cs
+END
+SetRenderQueue.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/SetRenderQueue.cs.meta
+END
+PlayButton.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/PlayButton.cs.meta
+END
+Howling.meta
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Proof_of_Concept/AR/svn/!svn/ver/71/Assets/Scripts/Howling.meta
+END
+Home.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Proof_of_Concept/AR/svn/!svn/ver/14/Assets/Scripts/Home.cs
+END
+GoToWebsite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/GoToWebsite.cs
+END
+ZoomPinch.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/ZoomPinch.cs.meta
+END
+ForwardiOSMessages.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/ForwardiOSMessages.cs.meta
+END
+Sonic.meta
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Proof_of_Concept/AR/svn/!svn/ver/10/Assets/Scripts/Sonic.meta
+END
+Minions.meta
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Proof_of_Concept/AR/svn/!svn/ver/40/Assets/Scripts/Minions.meta
+END
+LaunchViaURL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Proof_of_Concept/AR/svn/!svn/ver/47/Assets/Scripts/LaunchViaURL.cs
+END
+Gestures.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/Gestures.cs
+END
+FBLikeGUI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/FBLikeGUI.cs
+END
+DownloadAssetBundle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Proof_of_Concept/AR/svn/!svn/ver/47/Assets/Scripts/DownloadAssetBundle.cs
+END
+PlayStreamingMovie.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/PlayStreamingMovie.cs.meta
+END
+ParticleSystemTrackableEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/ParticleSystemTrackableEventHandler.cs.meta
+END
+Keds.meta
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/Keds.meta
+END
+ForwardiOSMessages.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Proof_of_Concept/AR/svn/!svn/ver/29/Assets/Scripts/ForwardiOSMessages.cs
+END
+AnimToggleButton.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/AnimToggleButton.cs.meta
+END
+SJTrackableEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/SJTrackableEventHandler.cs.meta
+END
+Home.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/Home.cs.meta
+END
+PlayStreamingMovie.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Proof_of_Concept/AR/svn/!svn/ver/69/Assets/Scripts/PlayStreamingMovie.cs
+END
+VirtualButtonEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/VirtualButtonEventHandler.cs
+END
+Slider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/Slider.cs
+END
+CameraDeviceMenu.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/CameraDeviceMenu.cs.meta
+END
+UsherTrackableEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/UsherTrackableEventHandler.cs.meta
+END
+UsherAnimController.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/UsherAnimController.cs.meta
+END
+Republic.meta
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Proof_of_Concept/AR/svn/!svn/ver/27/Assets/Scripts/Republic.meta
+END
+DonkeyKong.meta
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Proof_of_Concept/AR/svn/!svn/ver/10/Assets/Scripts/DonkeyKong.meta
+END
+CachedVideoTrackableEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Proof_of_Concept/AR/svn/!svn/ver/69/Assets/Scripts/CachedVideoTrackableEventHandler.cs.meta
+END
+AudioTrackableEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/AudioTrackableEventHandler.cs.meta
+END
+UsherAnimController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/UsherAnimController.cs
+END
+UsherTrackableEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Proof_of_Concept/AR/svn/!svn/ver/65/Assets/Scripts/UsherTrackableEventHandler.cs
+END
+AnimationLooper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/AnimationLooper.cs
+END
+SceneController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Proof_of_Concept/AR/svn/!svn/ver/29/Assets/Scripts/SceneController.cs
+END
+VBSoccerballEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/VBSoccerballEventHandler.cs
+END
+TimeLabels.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/TimeLabels.cs.meta
+END
+ZoomPinch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/ZoomPinch.cs
+END
+CachedVideoTrackableEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/Proof_of_Concept/AR/svn/!svn/ver/69/Assets/Scripts/CachedVideoTrackableEventHandler.cs
+END
+AnimationController.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/AnimationController.cs.meta
+END
+NewBehaviourScript.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Proof_of_Concept/AR/svn/!svn/ver/47/Assets/Scripts/NewBehaviourScript.cs.meta
+END
+SimpleRotate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Proof_of_Concept/AR/svn/!svn/ver/61/Assets/Scripts/SimpleRotate.cs
+END
+PlayHardwareMovieClassPro.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/PlayHardwareMovieClassPro.cs.meta
+END
+MarioLevel.meta
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Proof_of_Concept/AR/svn/!svn/ver/14/Assets/Scripts/MarioLevel.meta
+END
+TrackerEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/TrackerEventHandler.cs.meta
+END
+SJScrubListener.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/SJScrubListener.cs
+END
+LaunchViaURL.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Proof_of_Concept/AR/svn/!svn/ver/47/Assets/Scripts/LaunchViaURL.cs.meta
+END
+AnimToggleButton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/AnimToggleButton.cs
+END
+Starbucks.meta
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/Starbucks.meta
+END
+AnimationController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/AnimationController.cs
+END
+NewBehaviourScript.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Proof_of_Concept/AR/svn/!svn/ver/47/Assets/Scripts/NewBehaviourScript.cs
+END
+StreamingAudioTrackableEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Proof_of_Concept/AR/svn/!svn/ver/67/Assets/Scripts/StreamingAudioTrackableEventHandler.cs
+END
+AnimationLooper.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/AnimationLooper.cs.meta
+END
+Gestures.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/Gestures.cs.meta
+END
+FBLikeGUI.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/FBLikeGUI.cs.meta
+END
+DownloadAssetBundle.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Proof_of_Concept/AR/svn/!svn/ver/5/Assets/Scripts/DownloadAssetBundle.cs.meta
+END
+Mario.meta
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Proof_of_Concept/AR/svn/!svn/ver/10/Assets/Scripts/Mario.meta
+END
+FPSCounter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/FPSCounter.cs
+END
+AnimationTrackableEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Proof_of_Concept/AR/svn/!svn/ver/47/Assets/Scripts/AnimationTrackableEventHandler.cs
+END
+TrackerEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Proof_of_Concept/AR/svn/!svn/ver/14/Assets/Scripts/TrackerEventHandler.cs
+END
+SimpleRotate.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/SimpleRotate.cs.meta
+END
+GameCenter.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/GameCenter.cs.meta
+END
+AnimClock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/AnimClock.cs
+END
+PlayButton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Scripts/PlayButton.cs
+END
+VideoTrackableEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/VideoTrackableEventHandler.cs.meta
+END
+DuckHunt.meta
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Proof_of_Concept/AR/svn/!svn/ver/69/Assets/Scripts/DuckHunt.meta
+END
+SocialNetworking.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/SocialNetworking.cs.meta
+END
+LaunchHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Proof_of_Concept/AR/svn/!svn/ver/48/Assets/Scripts/LaunchHandler.cs
+END
+StreamingAudioTrackableEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Scripts/StreamingAudioTrackableEventHandler.cs.meta
+END
+AudioTrackableEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Proof_of_Concept/AR/svn/!svn/ver/19/Assets/Scripts/AudioTrackableEventHandler.cs
+END

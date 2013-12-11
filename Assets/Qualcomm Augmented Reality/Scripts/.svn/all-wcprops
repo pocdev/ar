@@ -1,0 +1,647 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts
+END
+QCARRuntimeUtilities.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/QCARRuntimeUtilities.cs.meta
+END
+QCARRenderer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/QCARRenderer.cs
+END
+ICloudRecoEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/ICloudRecoEventHandler.cs.meta
+END
+ImageTarget.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/ImageTarget.cs.meta
+END
+QCARBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/QCARBehaviour.cs.meta
+END
+IVirtualButtonEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/IVirtualButtonEventHandler.cs.meta
+END
+QCARManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/QCARManager.cs
+END
+TurnOffWordBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/TurnOffWordBehaviour.cs
+END
+MultiTarget.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/MultiTarget.cs.meta
+END
+ITrackableEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/ITrackableEventHandler.cs.meta
+END
+Trackable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/Trackable.cs
+END
+DefaultInitializationErrorHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/DefaultInitializationErrorHandler.cs.meta
+END
+ITrackerEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/ITrackerEventHandler.cs.meta
+END
+DataSetLoadBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/DataSetLoadBehaviour.cs
+END
+QCARBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/QCARBehaviour.cs
+END
+IVirtualButtonEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/IVirtualButtonEventHandler.cs
+END
+MarkerTracker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/MarkerTracker.cs
+END
+Internal.meta
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/Internal.meta
+END
+DefaultTrackableEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/DefaultTrackableEventHandler.cs
+END
+ImageTracker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/ImageTracker.cs
+END
+TextTracker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/TextTracker.cs
+END
+Word.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/Word.cs.meta
+END
+IUserDefinedTargetEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/IUserDefinedTargetEventHandler.cs.meta
+END
+TargetFinder.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/TargetFinder.cs.meta
+END
+ITextRecoEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/ITextRecoEventHandler.cs
+END
+WordManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/WordManager.cs
+END
+VirtualButton.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/VirtualButton.cs.meta
+END
+TurnOffWordBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/TurnOffWordBehaviour.cs.meta
+END
+MarkerBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/MarkerBehaviour.cs.meta
+END
+Word.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/Word.cs
+END
+Trackable.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/Trackable.cs.meta
+END
+TrackableBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/TrackableBehaviour.cs.meta
+END
+ImageTargetBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/ImageTargetBehaviour.cs.meta
+END
+DataSet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/DataSet.cs
+END
+TextTracker.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/TextTracker.cs.meta
+END
+QCARRuntimeUtilities.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/QCARRuntimeUtilities.cs
+END
+DataSetTrackableBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/DataSetTrackableBehaviour.cs.meta
+END
+MultiTargetBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/MultiTargetBehaviour.cs.meta
+END
+GLErrorHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/GLErrorHandler.cs.meta
+END
+WordResult.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/WordResult.cs.meta
+END
+ImageTargetBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/ImageTargetBuilder.cs
+END
+QCARRenderer.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/QCARRenderer.cs.meta
+END
+DataSetTrackableBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/DataSetTrackableBehaviour.cs
+END
+QCARUnity.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/QCARUnity.cs.meta
+END
+SetBGCameraLayerBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/SetBGCameraLayerBehaviour.cs.meta
+END
+QCARManager.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/QCARManager.cs.meta
+END
+Image.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/Image.cs.meta
+END
+CameraDevice.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/CameraDevice.cs
+END
+TrackableSource.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/TrackableSource.cs
+END
+TrackerManager.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/TrackerManager.cs.meta
+END
+UserDefinedTargetBuildingBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/UserDefinedTargetBuildingBehaviour.cs.meta
+END
+TargetFinder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/TargetFinder.cs
+END
+QCARUnity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/QCARUnity.cs
+END
+SetBGCameraLayerBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/SetBGCameraLayerBehaviour.cs
+END
+Marker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/Marker.cs
+END
+MarkerTracker.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/MarkerTracker.cs.meta
+END
+DefaultTrackableEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/DefaultTrackableEventHandler.cs.meta
+END
+VirtualButton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/VirtualButton.cs
+END
+ImageTargetBuilder.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/ImageTargetBuilder.cs.meta
+END
+MarkerBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/MarkerBehaviour.cs
+END
+TextRecoBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/TextRecoBehaviour.cs.meta
+END
+UserDefinedTargetBuildingBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/UserDefinedTargetBuildingBehaviour.cs
+END
+MaskOutBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/MaskOutBehaviour.cs
+END
+TurnOffBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/TurnOffBehaviour.cs
+END
+WebCamBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/WebCamBehaviour.cs.meta
+END
+ImageTarget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/ImageTarget.cs
+END
+WordList.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/WordList.cs.meta
+END
+CameraDevice.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/CameraDevice.cs.meta
+END
+ImageTargetBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/ImageTargetBehaviour.cs
+END
+StateManager.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/StateManager.cs.meta
+END
+MultiTarget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/MultiTarget.cs
+END
+ITrackableEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/ITrackableEventHandler.cs
+END
+WebCamBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/WebCamBehaviour.cs
+END
+IVideoBackgroundEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/IVideoBackgroundEventHandler.cs.meta
+END
+MultiTargetBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/MultiTargetBehaviour.cs
+END
+WordList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/WordList.cs
+END
+GeometryStructs.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/GeometryStructs.cs.meta
+END
+GLErrorHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/GLErrorHandler.cs
+END
+DataSet.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/DataSet.cs.meta
+END
+WordResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/WordResult.cs
+END
+StateManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/StateManager.cs
+END
+VirtualButtonBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/VirtualButtonBehaviour.cs.meta
+END
+MaskOutBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/MaskOutBehaviour.cs.meta
+END
+IUserDefinedTargetEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/IUserDefinedTargetEventHandler.cs
+END
+TurnOffBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/TurnOffBehaviour.cs.meta
+END
+DataSetLoadBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/DataSetLoadBehaviour.cs.meta
+END
+IVideoBackgroundEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/IVideoBackgroundEventHandler.cs
+END
+Tracker.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/Tracker.cs.meta
+END
+WordBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/WordBehaviour.cs
+END
+Image.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/Image.cs
+END
+ImageTracker.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/ImageTracker.cs.meta
+END
+GeometryStructs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/GeometryStructs.cs
+END
+CloudRecoBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/CloudRecoBehaviour.cs
+END
+TrackerManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/TrackerManager.cs
+END
+VirtualButtonBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/VirtualButtonBehaviour.cs
+END
+ICloudRecoEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/ICloudRecoEventHandler.cs
+END
+ITextRecoEventHandler.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/ITextRecoEventHandler.cs.meta
+END
+Tracker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/Tracker.cs
+END
+WordManager.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/WordManager.cs.meta
+END
+TrackableBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/TrackableBehaviour.cs
+END
+TrackableSource.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/TrackableSource.cs.meta
+END
+TextRecoBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/TextRecoBehaviour.cs
+END
+DefaultInitializationErrorHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/DefaultInitializationErrorHandler.cs
+END
+ITrackerEventHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/ITrackerEventHandler.cs
+END
+WordBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/Proof_of_Concept/AR/svn/!svn/ver/72/Assets/Qualcomm%20Augmented%20Reality/Scripts/WordBehaviour.cs.meta
+END
+Marker.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/Marker.cs.meta
+END
+CloudRecoBehaviour.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Proof_of_Concept/AR/svn/!svn/ver/53/Assets/Qualcomm%20Augmented%20Reality/Scripts/CloudRecoBehaviour.cs.meta
+END

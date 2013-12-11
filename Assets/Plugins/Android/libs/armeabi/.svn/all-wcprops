@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Proof_of_Concept/AR/svn/!svn/ver/49/Assets/Plugins/Android/libs/armeabi
+END
+libQCAR.so.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/Proof_of_Concept/AR/svn/!svn/ver/49/Assets/Plugins/Android/libs/armeabi/libQCAR.so.meta
+END
+libQCARWrapper.so.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Proof_of_Concept/AR/svn/!svn/ver/49/Assets/Plugins/Android/libs/armeabi/libQCARWrapper.so.meta
+END
+libQCARUnityPlayer.so.meta
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Proof_of_Concept/AR/svn/!svn/ver/49/Assets/Plugins/Android/libs/armeabi/libQCARUnityPlayer.so.meta
+END

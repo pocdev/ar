@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/Contrast%20Stretch
+END
+Apply.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/Contrast%20Stretch/Apply.shader.meta
+END
+Luminance.shader
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/Contrast%20Stretch/Luminance.shader
+END
+MinMaxReduction.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/Contrast%20Stretch/MinMaxReduction.shader.meta
+END
+Luminance.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/Contrast%20Stretch/Luminance.shader.meta
+END
+Adaptation.shader
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/Contrast%20Stretch/Adaptation.shader
+END
+Apply.shader
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/Contrast%20Stretch/Apply.shader
+END
+MinMaxReduction.shader
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/Contrast%20Stretch/MinMaxReduction.shader
+END
+Adaptation.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/Contrast%20Stretch/Adaptation.shader.meta
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/Proof_of_Concept/AR/svn/!svn/ver/69/Assets/Shaders
+END
+FXHyperbolicStatic.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Shaders/FXHyperbolicStatic.shader.meta
+END
+BumpedAnisotropic.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Proof_of_Concept/AR/svn/!svn/ver/28/Assets/Shaders/BumpedAnisotropic.shader.meta
+END
+ReflectiveBumpedTransparent.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Proof_of_Concept/AR/svn/!svn/ver/28/Assets/Shaders/ReflectiveBumpedTransparent.shader.meta
+END
+SolidTransparent.shader
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Shaders/SolidTransparent.shader
+END
+Depth Mask Simple (Terrain).shader
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Proof_of_Concept/AR/svn/!svn/ver/69/Assets/Shaders/Depth%20Mask%20Simple%20(Terrain).shader
+END
+DepthMask.shader
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Shaders/DepthMask.shader
+END
+SolidTransparent.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Shaders/SolidTransparent.shader.meta
+END
+StaticMat.mat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Shaders/StaticMat.mat
+END
+Depth Mask Simple (Terrain).shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Proof_of_Concept/AR/svn/!svn/ver/69/Assets/Shaders/Depth%20Mask%20Simple%20(Terrain).shader.meta
+END
+DepthMask.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Shaders/DepthMask.shader.meta
+END
+FXHyperbolicStatic.shader
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Shaders/FXHyperbolicStatic.shader
+END
+BumpedAnisotropic.shader
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Proof_of_Concept/AR/svn/!svn/ver/28/Assets/Shaders/BumpedAnisotropic.shader
+END
+ReflectiveBumpedTransparent.shader
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Proof_of_Concept/AR/svn/!svn/ver/28/Assets/Shaders/ReflectiveBumpedTransparent.shader
+END
+StaticMat.mat.meta
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Proof_of_Concept/AR/svn/!svn/ver/1/Assets/Shaders/StaticMat.mat.meta
+END

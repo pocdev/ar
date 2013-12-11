@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares
+END
+BrightPassFilter.shader
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/BrightPassFilter.shader
+END
+SeparableBlurPlus.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/SeparableBlurPlus.shader.meta
+END
+VignetteShader.shader
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/VignetteShader.shader
+END
+BlendOneOne.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/BlendOneOne.shader.meta
+END
+MultiPassHollywoodFlares.shader
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader
+END
+BrightPassFilter2.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/BrightPassFilter2.shader.meta
+END
+LensFlareCreate.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/LensFlareCreate.shader.meta
+END
+BlurAndFlares.shader
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/BlurAndFlares.shader
+END
+BlendForBloom.shader
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/BlendForBloom.shader
+END
+Blend.shader
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/Blend.shader
+END
+SeparableBlurPlus.shader
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/SeparableBlurPlus.shader
+END
+BlendOneOne.shader
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/BlendOneOne.shader
+END
+BrightPassFilter2.shader
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/BrightPassFilter2.shader
+END
+LensFlareCreate.shader
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/LensFlareCreate.shader
+END
+BrightPassFilter.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/BrightPassFilter.shader.meta
+END
+VignetteShader.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/VignetteShader.shader.meta
+END
+MultiPassHollywoodFlares.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader.meta
+END
+BlurAndFlares.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/BlurAndFlares.shader.meta
+END
+BlendForBloom.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/BlendForBloom.shader.meta
+END
+Blend.shader.meta
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/Proof_of_Concept/AR/svn/!svn/ver/74/Assets/Standard%20Assets/Image%20Effects%20(Pro%20Only)/_Sources/Shaders/_BloomAndFlares/Blend.shader.meta
+END

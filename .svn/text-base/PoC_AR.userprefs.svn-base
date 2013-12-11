@@ -1,0 +1,104 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Gestures.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayStreamingMovie.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/VideoTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayCachedStreamingMovie.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ForwardiOSMessages.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayHardwareMovieClassPro.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CachedVideoTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Qualcomm Augmented Reality/Scripts/DefaultTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Qualcomm Augmented Reality/Shaders/DepthMask.shader" Line="1" Column="1" />
+      <File FileName="Assets/Shaders/Depth Mask Simple (Terrain).shader" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/StreamingAudioTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LaunchViaURL.cs" Line="1" Column="1" />
+      <File FileName="Assets/Mega-Fiers/Scripts/MegaFiers/Modifiers/MegaModifyObject.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DuckHunt/Duck.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DuckHunt/Huntable.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DuckHunt/DHTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DuckHunt/GroundCollision.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DuckHunt/HuntableController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DuckHunt/Crosshairs.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Howling/HowlingTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/LiveTexture/testSupport/VideoGUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AnimationTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Home.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/LiveTexture/LiveTextureBinding.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/LiveTexture/VideoTexture.cs" Line="1" Column="1" />
+      <File FileName="Assets/Qualcomm Augmented Reality/Scripts/ImageTargetBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets/Fonts/Futura.txt" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Menu/AttachUIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SJTrackableEventHandler.cs" Line="33" Column="1" />
+      <File FileName="Assets/Scripts/LaunchHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Menu/MenuLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Gestures.cs" Line="76" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Fonts" expanded="True" />
+              <Node name="Mega-Fiers" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="MegaFiers" expanded="True">
+                    <Node name="Modifiers" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Qualcomm Augmented Reality" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Internal" expanded="True">
+                    <Node name="Wrapper" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Shaders" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Albums" expanded="True" />
+                <Node name="DonkeyKong" expanded="True" />
+                <Node name="DuckHunt" expanded="True" />
+                <Node name="Howling" expanded="True" />
+                <Node name="Menu" expanded="True" />
+                <Node name="Minions" expanded="True" />
+                <Node name="Starbucks" expanded="True" />
+                <Node name="Gestures.cs" selected="True" />
+              </Node>
+              <Node name="Shaders" expanded="True" />
+            </Node>
+          </Node>
+          <Node name="Assembly-CSharp-Editor" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Mega-Fiers" expanded="True">
+                <Node name="Editor" expanded="True">
+                  <Node name="MegaFiers" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+          <Node name="Assembly-CSharp-firstpass" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Plugins" expanded="True">
+                <Node name="EZ" expanded="True">
+                  <Node name="GUI" expanded="True">
+                    <Node name="Management" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="LiveTexture" expanded="True">
+                  <Node name="testSupport" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/adam/PoC_AR/Assets/Scripts/PlayHardwareMovieClassPro.cs" line="42" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
